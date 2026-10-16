@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crossmint": {
+      "type": "http",
+      "url": "https://mcp.crossmint.com/mcp"
+    }
+  }
+}

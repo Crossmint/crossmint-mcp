@@ -1,0 +1,21 @@
+{
+  "name": "crossmint",
+  "version": "1.0.0",
+  "description": "Manage Crossmint organizations, projects, environments and API keys from your AI assistant.",
+  "author": {
+    "name": "Crossmint",
+    "url": "https://www.crossmint.com"
+  },
+  "homepage": "https://docs.crossmint.com/mcp-server/connect",
+  "repository": "https://github.com/Crossmint/crossmint-mcp",
+  "license": "MIT",
+  "keywords": [
+    "crossmint",
+    "nft",
+    "blockchain",
+    "web3",
+    "api-management"
+  ],
+  "mcpServers": "./.mcp.json",
+  "logo": "./assets/logo-plate.svg"
+}
