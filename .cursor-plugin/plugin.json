@@ -1,0 +1,1 @@
+{"name":"crossmint","version":"1.0.0","description":"Manage Crossmint orgs, projects, environments and API keys from Cursor.","author":{"name":"Crossmint"},"homepage":"https://docs.crossmint.com/mcp-server/connect","repository":"https://github.com/Crossmint/crossmint-mcp","license":"MIT","keywords":["crossmint","mcp","api-keys"],"logo":"assets/logo.svg"}

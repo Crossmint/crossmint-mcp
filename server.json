@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.crossmint/mcp",
+  "title": "Crossmint",
+  "description": "Manage Crossmint orgs, projects, environments and API keys from your AI assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.crossmint.com",
+  "remotes": [{ "type": "streamable-http", "url": "https://mcp.crossmint.com/mcp" }]
+}
