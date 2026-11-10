@@ -1,0 +1,15 @@
+{
+  "name": "menta",
+  "version": "0.1.2",
+  "description": "Menta by Crossmint buys, orders, books, returns and cancels things at online stores for you, through Crossmint checkouts. You approve every spending limit yourself; the assistant never can. Sign in with your Menta account (OAuth), no API key.",
+  "author": {
+    "name": "Crossmint",
+    "url": "https://www.crossmint.com"
+  },
+  "homepage": "https://menta.crossmint.com",
+  "repository": "https://github.com/Crossmint/crossmint-mcp",
+  "license": "MIT",
+  "keywords": ["menta", "menta by crossmint", "menta crossmint"],
+  "mcpServers": "./.mcp.json",
+  "logo": "./assets/logo.png"
+}

@@ -29,5 +29,9 @@ whoami, env_select, orgs_list, orgs_current, orgs_select, projects_list, project
 {"servers":{"crossmint":{"type":"http","url":"https://mcp.crossmint.com/mcp"}}}
 ```
 
+## Menta by Crossmint
+
+This repo also lists [Menta by Crossmint](menta/), which buys things at online stores for you within spending limits you approve. Server URL: `https://menta.crossmint.com/mcp` (Streamable HTTP, OAuth). Its plugin files are in [`menta/`](menta/).
+
 ## License
 MIT

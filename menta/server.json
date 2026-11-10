@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.crossmint/menta",
+  "title": "Menta by Crossmint",
+  "description": "Buy, order, book, return and cancel at online stores, within spending limits you approve.",
+  "version": "0.1.2",
+  "websiteUrl": "https://menta.crossmint.com",
+  "remotes": [{ "type": "streamable-http", "url": "https://menta.crossmint.com/mcp" }]
+}
