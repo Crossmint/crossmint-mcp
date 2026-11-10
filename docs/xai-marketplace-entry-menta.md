@@ -5,7 +5,7 @@ The entry for the `plugins` array in `.grok-plugin/marketplace.json` of `xai-org
 ```json
 {
   "name": "menta",
-  "description": "Menta by Crossmint buys, orders, books, returns and cancels things at online stores for you, through Crossmint checkouts. You approve every spending limit yourself; the assistant never can. Sign in with your Menta account.",
+  "description": "Buys, orders, books, returns and cancels things at online stores for you, through Crossmint checkouts. You approve every spending limit yourself; the assistant never can.",
   "category": "productivity",
   "source": {
     "source": "url",
